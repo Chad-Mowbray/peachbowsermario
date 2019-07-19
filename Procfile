@@ -1,0 +1,1 @@
+web: gunicorn rock_scissors_paper.wsgi
